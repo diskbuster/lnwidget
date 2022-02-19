@@ -1,0 +1,6 @@
+{
+  "name": "LNWidget",
+  "short_description": "A embedable Webste Widget",
+  "icon": "dialpad",
+  "contributors": ["satoshidude"]
+}
